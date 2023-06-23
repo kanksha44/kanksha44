@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kanksha44@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bWJDfJLKStj7gZrZoYfTlFc1OICo7e9e/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RWsIXz6ElHRr9muFGTu_DlCq3KtqEfbM/view?usp=sharing)
 
 - 🤩 Exciting moment **When my code finally runs error-free after countless hours of debugging, it's pure bliss!.**
 
