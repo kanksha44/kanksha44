@@ -2,7 +2,6 @@
 
 [![MasterHead](https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp)](https://rishavchanda.io)
 
-
 <h1 align="center">Hi <img alt="img" width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">, I'm Aakanksha Gaikwad</h1>
 <h3 align="center">A Passionate FrondEnd Developer with basic knowledge of Backend.</h3><br/>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/942e85092a9cb7b6b7025ebbf4056a3f9a44a3ca15d628f0299271d42ebd051b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3931313632352f73637265656e73686f74732f31313131333738372f6d656469612f66383663343338623861643130663839306234663431393237366132626531632e676966">
@@ -37,6 +36,6 @@
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=kanksha44&" alt="kanksha44" /></p>
 
-## Snake eating my Contribution Graph
+<!-- ## Snake eating my Contribution Graph -->
 
 <!-- ![gitartwork](gitartwork.svg) -->
