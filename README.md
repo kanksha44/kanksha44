@@ -15,6 +15,8 @@
 - 📫 How to reach me **kanksha44@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RWsIXz6ElHRr9muFGTu_DlCq3KtqEfbM/view?usp=sharing)
+- 
+- 📄 Portfolio  [my Portfolio](https://aakanksha-gaikwad-frontenddeveloper.netlify.app/)
 
 - 🤩 Exciting moment **When my code finally runs error-free after countless hours of debugging, it's pure bliss!.**
 
