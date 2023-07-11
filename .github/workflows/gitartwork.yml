@@ -1,18 +1,29 @@
 name: gitartwork from a contribution graph
+
 on:
   push:
   schedule:
-    - cron: "* */24 * * *"
+    - cron: "0 0 */1 * *"
+
 jobs:
   build:
     name: Make gitartwork SVG
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: jasineri/gitartwork@v1
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate gitartwork SVG
+        uses: jasineri/gitartwork@v1
         with:
-          # Use this username's contribution graph
           user_name: kanksha44
-          # Text on contribution graph
-          text: Kanksha
-      - uses: jasineri/simple-push-action@v1
+          text: kanksha
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update gitartwork SVG"
+          git push
