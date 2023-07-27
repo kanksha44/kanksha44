@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [my Git Repository.](https://github.com/kanksha44?tab=repositories)
 
-- 🌱 Looking for **FrontEnd roles**
+- 🌱 Looking for **FrontEnd and Full stack roles**
 
 - 📫 How to reach me **kanksha44@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RWsIXz6ElHRr9muFGTu_DlCq3KtqEfbM/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14Ahvs1nRnulauBkc-XsUIeHltdUojXHZ/view?usp=sharing)
 - 
 -  [My Portfolio](https://aakanksha-gaikwad-frontenddeveloper.netlify.app/)
 
