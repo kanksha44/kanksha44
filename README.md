@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj3028&label=Profile%20views&color=0e75b6&style=flat" alt="kanksha44" /> </p> -->
 
-- 🔭 I’m currently working on [my Git Repository.](https://github.com/kanksha44?tab=repositories)
+- 🔭 I’m currently learning Backend development.
 
 - 🌱 Looking for **FrontEnd and Full stack roles**
 
